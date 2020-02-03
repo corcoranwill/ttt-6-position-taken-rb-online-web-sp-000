@@ -15,5 +15,6 @@
 # 2. Address "edge cases" - i.e. do you want to consider "" and empty space?
 
 def position_taken?(board, index)
-
+  if board[index] == " "
+    false
 end
