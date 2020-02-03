@@ -13,3 +13,7 @@
 
 # 1. Define a method that checks if a given space on the board is empty == " "
 # 2. Address "edge cases" - i.e. do you want to consider "" and empty space?
+
+def position_taken?(board, index)
+
+end
